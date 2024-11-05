@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
            
-           
+           //2.
+
             //int
             Console.WriteLine("2. Create a simple console application and declare basic datatypes like int, float, decimal, double and print their min and max values.");
             Console.WriteLine();
